@@ -1,4 +1,4 @@
-# Emotion Recognition App
+# EmotionSphere: Connecting Through Emotions
 EmotionSphere is an innovative social media app designed to enhance emotional connection among users. By allowing users to share photos accompanied by captions, EmotionSphere utilizes advanced emotion recognition technology to analyze the sentiments expressed in the text and speech.
 
 # Key features include:
